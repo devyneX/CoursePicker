@@ -27,13 +27,19 @@ By inputting the courses you've done so far, you can get a list of courses you'v
 
 ## How to use
 ---
-You can input the courses you've completed using
+Completed courses can be inputted using
 * the checkboxes
-<!-- add an example -->
+    - pretty self-explanatory, check the completed courses and click the submit button at the bottom
+
 * a .txt file
-<!-- add an example -->
+    - list the completed courses in a .txt file, one in a line. Check the completed_courses.txt file in the repo to get an idea.
+    - click the folder icon next to .txt input box to browse to this file and select
+    - click the submit button next to it
 * a .csv file 
-<!-- add an example -->
+    - copy completed_courses.csv and paste it somewhere.
+    - edit the copied file and type "YES" in the FINISHED column of the completeed courses.
+    - click the folder icon next to .csv input box to browse to this file and select
+    - click the submit button next to it
 
 > may show irregularities if in the input, there's a completed course whose prerequisite wasn't done. For example, if CSE221 was checked but CSE220 wasn't checked. 
 
