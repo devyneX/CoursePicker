@@ -11,7 +11,7 @@ A desktop app to check the unlocked courses bases on previously done courses.
 
 ## About the Project
 ---
-It's a simple project I made while doing preadvising. The open credit system can be somewhat hectic at times. Even if you have a course tree, you need to check that manually and find the courses that you have been unlocked. So being a programmer, I thought why not automate the damn thing and be done with it. Of course, that wasn't easy either 😅 But hey, at least, now I was doing something I like, right? 
+It's a simple project I made while doing preadvising. The open credit system can be somewhat hectic at times. Even if you have a course tree, you need to check that manually and find the courses that you have been unlocked. So being a programmer, I thought why not automate the whole thing and be done with it. Of course, that wasn't easy either 😅 But hey, at least, now I was doing something I like, right? 
 
 It will only work for CSE students of BRACU, but feel free to pull and change up to fit your University. 
 
